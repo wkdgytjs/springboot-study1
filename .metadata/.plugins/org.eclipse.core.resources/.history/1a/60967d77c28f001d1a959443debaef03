@@ -1,0 +1,16 @@
+package org.spring.gradlepj;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GradlepjApplicationTests {
+
+	@Test
+	void contextLoads() {
+		System.out.println("테스트");
+		
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package org.spring.springmvc.dto;
+
+public class LombokEx {
+
+	public static void main(String[] args) {
+		
+		MemberDto dto=new MemberDto();
+		
+		
+	}
+}

@@ -1,0 +1,8 @@
+package org.spring.gradlepj.entity;
+
+
+
+@Entity
+public class MemberEntity {
+
+}

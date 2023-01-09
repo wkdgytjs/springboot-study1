@@ -1,0 +1,8 @@
+package org.spring.gradlepj.entity;
+
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
+@enti
+public class MemberEntity {
+
+}

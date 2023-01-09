@@ -1,0 +1,17 @@
+package org.spring.gradlepj.di;
+
+public class DiMain {
+	
+	private DiSub diSub;
+	
+	public DiMain(DiSub diSub) {
+		this.diSub=diSub;
+	}
+	
+	public static void main(String[] args) {
+		
+		DiSub d1= new DiSub();//강한 결합 //내가 결정
+		
+	}
+
+}
